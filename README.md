@@ -1,7 +1,7 @@
 # The Lenny Growth Assistant
 
 > **Take-home submission — Forward Deployed Engineer role.**
-> Demo video: [add YouTube link here once recorded]
+> Demo video: [Watch here](https://drive.google.com/file/d/14cKIiXTu-nmbKl1czy0VFRap-3N7pVAA/view?usp=sharing)
 > Author: Pavana K V · [GitHub](https://github.com/Pavanakv) · [LinkedIn](https://linkedin.com/in/pavana-kv)
 
 A full-stack, grounded RAG assistant over Lenny's Podcast transcripts:
@@ -184,7 +184,7 @@ npm run build      # production build sanity check
 | 5 | architecture.md | [`docs/architecture.md`](docs/architecture.md) |
 | 6 | Agent transcripts (incl. failed attempts) | [`agent_transcripts/`](agent_transcripts/) |
 | 7 | Tests | [`backend/tests/`](backend/tests/) + manual UI test plan above |
-| 8 | Demo video (2–3 min, camera on) | [add YouTube link here] |
+| 8 | Demo video (2–3 min, camera on) | [Watch here](https://drive.google.com/file/d/14cKIiXTu-nmbKl1czy0VFRap-3N7pVAA/view?usp=sharing) |
 
 ## Known limitations & deviations from spec
 
